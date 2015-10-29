@@ -1,5 +1,7 @@
 # heroku-buildpack-multi
 
+Depreciated, as Heroku supports multiple buildbacks natively: https://devcenter.heroku.com/articles/using-multiple-buildpacks-for-an-app
+
 Use multiple buildpacks on your app
 
 ## Usage
